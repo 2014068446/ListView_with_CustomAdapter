@@ -7,7 +7,6 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.donnald.listview.Activity.MainActivity;
 import com.example.donnald.listview.Model.College;
 import com.example.donnald.listview.R;
 
